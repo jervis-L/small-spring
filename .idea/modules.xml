@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/small-spring.iml" filepath="$PROJECT_DIR$/.idea/small-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small-spring-step-01/small-spring-step-01.iml" filepath="$PROJECT_DIR$/small-spring-step-01/small-spring-step-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small-spring-step-02/small-spring-step-02.iml" filepath="$PROJECT_DIR$/small-spring-step-02/small-spring-step-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small-spring-step-03/small-spring-step-03.iml" filepath="$PROJECT_DIR$/small-spring-step-03/small-spring-step-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small-spring-step-04/small-spring-step-04.iml" filepath="$PROJECT_DIR$/small-spring-step-04/small-spring-step-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small-spring-step-05/small-spring-step-05.iml" filepath="$PROJECT_DIR$/small-spring-step-05/small-spring-step-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small-spring-step-06/small-spring-step-06.iml" filepath="$PROJECT_DIR$/small-spring-step-06/small-spring-step-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small-spring-step-07/small-spring-step-07.iml" filepath="$PROJECT_DIR$/small-spring-step-07/small-spring-step-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small-spring-step-08/small-spring-step-08.iml" filepath="$PROJECT_DIR$/small-spring-step-08/small-spring-step-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small-spring-step-09/small-spring-step-09.iml" filepath="$PROJECT_DIR$/small-spring-step-09/small-spring-step-09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small-spring-step-10/small-spring-step-10.iml" filepath="$PROJECT_DIR$/small-spring-step-10/small-spring-step-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small-spring-step-11/small-spring-step-11.iml" filepath="$PROJECT_DIR$/small-spring-step-11/small-spring-step-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small-spring-step-12/small-spring-step-12.iml" filepath="$PROJECT_DIR$/small-spring-step-12/small-spring-step-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small-spring-step-13/small-spring-step-13.iml" filepath="$PROJECT_DIR$/small-spring-step-13/small-spring-step-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small-spring-step-14/small-spring-step-14.iml" filepath="$PROJECT_DIR$/small-spring-step-14/small-spring-step-14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small-spring-step-15/small-spring-step-15.iml" filepath="$PROJECT_DIR$/small-spring-step-15/small-spring-step-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small-spring-step-16/small-spring-step-16.iml" filepath="$PROJECT_DIR$/small-spring-step-16/small-spring-step-16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small-spring-step-17/small-spring-step-17.iml" filepath="$PROJECT_DIR$/small-spring-step-17/small-spring-step-17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small-spring-step-18/small-spring-step-18.iml" filepath="$PROJECT_DIR$/small-spring-step-18/small-spring-step-18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small-spring-step-19/small-spring-step-19.iml" filepath="$PROJECT_DIR$/small-spring-step-19/small-spring-step-19.iml" />
+    </modules>
+  </component>
+</project>
