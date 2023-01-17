@@ -1,7 +1,7 @@
 package com.jervis.springframework.beans.factory.config;
 
 public class BeanDefinition {
-//    为啥不用泛型？
+
     private Class beanClass;
 
     public BeanDefinition(Class beanClass){this.beanClass=beanClass;}

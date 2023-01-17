@@ -12,7 +12,7 @@ public class ClassPathXmlApplicationContext extends AbstractXmlApplicationContex
     public ClassPathXmlApplicationContext(String configLocations) throws BeansException{
         this(new String[]{configLocations});
     }
-    public ClassPathXmlApplicationContext(String[] configLocations) throws cn.bugstack.springframework.beans.BeansException {
+    public ClassPathXmlApplicationContext(String[] configLocations) throws BeansException {
         this.configLocations = configLocations;
         refresh();
     }
